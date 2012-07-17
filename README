@@ -1,0 +1,4 @@
+Mobile application built using Qt C++ for the Nokia phones. It uses the GPS
+service to track the distance travelled and displays the travelled route on the
+map and also calculates the amount to be paid. Helpful for auto and taxi users
+who can be sure of not getting cheated with manipulated meters.
